@@ -59,10 +59,3 @@
 | [**advanced-playwright-framework**](https://github.com/codewithrajat/advanced-playwright-framework) | TypeScript · Playwright | End-to-end UI + API testing framework |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithrajat&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrajat&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
